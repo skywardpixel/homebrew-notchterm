@@ -1,6 +1,6 @@
 cask "notchterm" do
   version "0.1.0-alpha.3"
-  sha256 "4137a8948f833b16fea617af1bcbd5c64c9cfa93e414049e3ab71d556852cd66"
+  sha256 "946d9c76f25a61dcfdbb31140658837f09658fcde020a9df064c17ee30fe379b"
 
   url "https://github.com/skywardpixel/NotchTerm/releases/download/v#{version}/NotchTerm-#{version}.zip"
   name "NotchTerm"
